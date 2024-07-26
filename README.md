@@ -3,8 +3,11 @@ Preparing for applying master's degree
 
 - 1 CV
 - 1 Motivation Letter
+  
   https://www.youtube.com/watch?v=Zfy62dccpEY&list=RDCMUCXY03VbYU3PEvhUr_6bk7Jg&index=2
+
   Create a story
+  
 - 2 Recomemdation Letters
 
 Starting Date: 5.7.2024
