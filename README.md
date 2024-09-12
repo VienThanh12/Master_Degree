@@ -8,7 +8,8 @@ Preparing for applying master's degree
 
   Create a story
   
-- 2 Recomemdation Letters
+- 3 Recomemdation Letters
+- 2 from Nokia, 1 from my UNI
 
 Starting Date: 5.7.2024
 
