@@ -11,7 +11,7 @@ Preparing for applying master's degree
 - 3 Recomemdation Letters
 - 2 from Nokia, 1 from my UNI
 - 1 Portfolio
-- Tráncript of Records
+- Transcript of Records
 
 Starting Date: 5.7.2024
 
