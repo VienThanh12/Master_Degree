@@ -34,7 +34,9 @@ developer in a start up company in Vietnam for more than 1 year. Now I am workin
 Incubation (CNS). I am develongping GenerativeAI/LLM routines and architectures to provide it to R&D teams. Besieds, I also participate many other activites Junction. In the first junction, I got 25% out of 250 projects. 
 I also got Silver Awards in the last round of Project Managerment Champion. I won many prize related to Competition Programming in High School. I hope that when I get to Aalto, I can participate to Aalto's Team to go to 
 ICPC (Internation College Programming Contest). I saw that Aalto's Team performed very well in Nordic's ICPC. Out of that, I played football and badminton very well. I got two bronze medals from that. 
+
 Best regards,
+
 Vien Ha
 
 
