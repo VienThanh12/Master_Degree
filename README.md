@@ -8,6 +8,8 @@ Check-list Documents
 - [ ] 1 Portfolio (Deadline 13.12.2024)
 - [ ] CV (Deadline 20.12.2024)
 - [ ] Motivation Letter (Deadline 20.12.2024)
+- [ ] Proof of Employment Nokia
+- [ ] Cert in Linkedin
 
 Starting Date: 5.7.2024
 
