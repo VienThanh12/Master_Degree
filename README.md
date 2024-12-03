@@ -9,7 +9,7 @@ Check-list Documents
 - [ ] CV (Deadline 20.12.2024)
 - [ ] Motivation Letter (Deadline 20.12.2024)
 - [x] Proof of Employment Nokia
-- [ ] Cert in Linkedin
+- [x] Cert in Linkedin
 - [ ] Course Description
 
 
