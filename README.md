@@ -5,12 +5,12 @@ Check-list Documents
 
 - [ ] Recomemdation Letters (2 from Nokia, 1 from my Uni) (Done 3 recommendatio Letter 29.11, waiting for my boss to sign)
 - [x] Transcript of Records (Deadline 13.12.2024)
-- [] 1 Portfolio (Deadline 13.12.2024)
-- [] CV (Deadline 20.12.2024)
-- [] Motivation Letter (Deadline 20.12.2024)
+- [ ] 1 Portfolio (Deadline 13.12.2024)
+- [ ] CV (Deadline 20.12.2024)
+- [ ] Motivation Letter (Deadline 20.12.2024)
 - [x] Proof of Employment Nokia
 - [x] Cert in Linkedin
-- [] Course Description
+- [ ] Course Description
 
 
 Starting Date: 5.7.2024
