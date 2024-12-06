@@ -3,8 +3,11 @@ Preparing for applying master's degree
 
 Check-list Documents
 
-- [ ] Recomemdation Letters (2 from Nokia, 1 from my Uni) (Done 3 recommendatio Letter 29.11, waiting for my boss to sign)
+- [x] Degree confirmation statement
 - [x] Transcript of Records (Deadline 13.12.2024)
+- [ ] Recomemdation Letters (2 from Nokia, 1 from my Uni) (Done 3 recommendatio Letter 29.11, waiting for my boss to sign)
+- [ ] Passport (all relevant pages) or European ID card (both sides)
+- [ ] Residence permit
 - [ ] 1 Portfolio (Deadline 13.12.2024)
 - [ ] CV (Deadline 20.12.2024)
 - [ ] Motivation Letter (Deadline 20.12.2024)
