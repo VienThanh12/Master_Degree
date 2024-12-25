@@ -9,8 +9,8 @@ Check-list Documents
 - [x] Passport (all relevant pages) or European ID card (both sides)
 - [x] Residence permit
 - [x] 1 Portfolio (Deadline 13.12.2024)
-- [ ] CV (Deadline 20.12.2024)
-- [ ] Motivation Letter (Deadline 20.12.2024)
+- [x] CV (Deadline 20.12.2024)
+- [x] Motivation Letter (Deadline 20.12.2024)
 - [x] Proof of Employment Nokia
 - [x] Cert in Linkedin
 - [x] Course Description
