@@ -14,6 +14,7 @@ Check-list Documents
 - [x] Proof of Employment Nokia
 - [x] Cert in Linkedin
 - [x] Course Description
+- [x] Prize
 
 Required documents if your degree is incomplete 
 
